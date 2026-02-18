@@ -1,5 +1,5 @@
 # 💫 About Me:
- i m currently working on react native projects frrelancing e commerce apps <br>my app is ashish skills i have javascript nodejs mongodb firebase jwt webtokens react native apis <br>learning ai also <br>bca and msc cs gradute <br>want learn skils faster learner logical person want to job and <br>internships
+ i m currently working on react native projects freelancing e commerce apps <br>my app is ashish skills i have javascript nodejs mongodb firebase jwt webtokens react native apis <br>learning ai also <br>bca and msc cs gradute <br>want learn skils faster learner logical person want to job and <br>internships
 
 
 ## 🌐 Socials:
